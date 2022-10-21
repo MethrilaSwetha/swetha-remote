@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<body>
+    <input type="search" placeholder="search" autofocus>
+
+<input type="search" placeholder="search">
+</body>
+</html>
